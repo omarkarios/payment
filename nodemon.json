@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "js,jsx,json",
+    "ignore": ["src/**/*.test.js"],
+    "exec": "react-scripts start"
+}
+  

@@ -1,0 +1,46 @@
+.task-scheduler-container {
+    text-align: center;
+    margin-top: 40px;
+}
+  
+.frequency-button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+  
+.frequency-button.selected {
+    background-color: #013ca6;
+    border-color: #dbdbdb;
+    padding: 10px 20px;
+    color: white;
+}
+.total-premium {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 150%;
+    color: #363636;
+    font-weight: 700;
+}
+.renewal-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    line-height: 1.5;
+    font-weight: 200;
+}
+.payment-button {
+    background-color: #013ca6;
+    border-color: #dbdbdb;
+    padding: 10px 20px;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin: 5px;
+}
